@@ -1,0 +1,25 @@
+codigo,nombre,precio,stock_actual,stock_minimo,categoria_id
+TABL-001,Tabla de madera pino 1x4x8,12.50,80,15,1
+CLAV-001,Clavo de acero 2 pulgadas,3.90,500,100,1
+LLAV-001,Llave ajustable 12 pulgadas,35.00,40,8,1
+ESCI-001,Escoplo de carpintero 1 pulgada,18.75,30,5,1
+SERR-001,Sierra de mano 20 dientes,28.00,25,5,1
+CINT-001,Cinta métrica 5 metros,9.99,60,10,1
+NIVE-001,Nivel de burbuja 30cm,15.50,35,6,1
+BROE-001,Broca HSS set 6 piezas,22.00,45,10,1
+INTE-001,Interruptor simple 10A,4.50,150,30,2
+TOMA-001,Tomacorriente doble 15A,6.80,120,25,2
+COND-001,Conduit PVC 3/4 x 3m,5.20,200,40,2
+PROT-001,Protector de voltaje 1500W,55.00,20,4,2
+FOCT-001,Foco LED 9W luz blanca,3.50,300,60,2
+CIRT-001,Cinta aislante negra 18mm,2.10,250,50,2
+BREA-001,Breaker 20A riel DIN,12.90,50,10,2
+CJUN-001,Caja de empalme 4x4 PVC,3.20,100,20,2
+PINI-001,Pintura interior blanco 1 galón,38.00,40,8,3
+PINE-001,Pintura exterior gris humo 1 galón,42.00,35,7,3
+BROP-001,Brocha plana 3 pulgadas,6.50,80,15,3
+RODI-001,Rodillo espuma 9 pulgadas,8.90,70,12,3
+LIJA-001,Lija al agua grano 120 pack 10,7.00,90,18,3
+MASI-001,Masilla plástica 1 kg,11.50,50,10,3
+DISC-001,Disco lija 7 pulgadas grano 80,4.20,100,20,3
+IMPR-001,Imprimante acrílico 1 galón,29.90,30,6,3
